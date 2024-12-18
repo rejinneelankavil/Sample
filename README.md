@@ -1,2 +1,2 @@
 # Sample
-for studying
+for studying purpose 
